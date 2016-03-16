@@ -1,3 +1,3 @@
 var result = $("#content").height();
 var resultHeight = result + 4;
-$("#bgleft").css("height", resultHeight);
+$("#main_left_bg").css("height", resultHeight);
