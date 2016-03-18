@@ -3,7 +3,22 @@
 Email: leelamhair@gmail.com
 Phone: 0969128313*/
 
-#content
-{
-	padding-left: 40px;
+#home-wrap #content-header{
+	font-weight: bold;
+	color: #ad3900;
+}
+
+#home-wrap #content-header p{
+	color: #000000;
+}
+
+#home-wrap #content-header ul{
+	padding-left: 45px;
+	margin-bottom: 30px;
+}
+
+#home-wrap #content-footer{
+	font-size: medium;
+    color: rgb(204, 0, 0);
+    font-weight: bold;
 }
