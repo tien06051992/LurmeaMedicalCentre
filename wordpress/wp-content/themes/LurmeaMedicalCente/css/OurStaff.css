@@ -6,6 +6,16 @@ Phone: 0969128313*/
 #ourstaff-wrap{
 	padding: 15px 15px 15px 30px;
 }
+
 #ourstaff-head{
 	text-align: center;
+}
+
+.ourstaff-wrap{
+	padding-bottom: 1555px;
+}
+
+.ourstaff-head{
+	text-align: center;
+	padding-bottom: 40px;
 }
