@@ -51,11 +51,13 @@ body{
 	background-size: cover;
 
 }
+
 .sidebar-nav {
-	padding: 100px 0 100px 60px;
+	padding: 100px 0 100px 140px;
 	font-size: 13px;
 
 }
+
 .sidebar-nav li {
 	padding-bottom: 10px;	
 	margin-bottom: 15px;
@@ -70,11 +72,11 @@ body{
 .sidebar-nav li a {
 	color: #fff;
 	text-decoration: none;
+
 }
 
 
 /*main*/
-
 /*main left*/
 
 #main_left{
@@ -106,10 +108,18 @@ body{
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+#footer_menu .list-inline .menu-item {
+	border-right: 1px solid #000000;
+}
+
 /*main right*/
 
 #main_container
 {
+	margin-bottom: 15px;
+}
+
+#main_container .col-md-4{
 	margin-bottom: 15px;
 }
 
@@ -161,5 +171,5 @@ body{
 }
 
 #content{
-	padding: 15px 15px 15px 60px;
+	padding: 15px 15px 15px 15px;
 }

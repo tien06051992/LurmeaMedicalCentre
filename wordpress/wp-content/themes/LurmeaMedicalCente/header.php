@@ -15,10 +15,9 @@
   <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/Home.css">
   <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/OurServices.css">
   <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/OurStaff.css">
-
 <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/PracticePolicy.css">
 <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/ContactUs.css">
-
+<link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/reponsive.css">
 
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
@@ -45,8 +44,7 @@
       <div class="row">
         <div class="col-md-12" id="head_bg">
             <div class="row" >
-              <div class="col-md-1"></div>
-              <div class="col-md-3">
+              <div class="col-md-4">
                 <!-- left menu -->
                   <ul class="sidebar-nav">
                     <?php echo do_shortcode('[main_menu]'); ?>
