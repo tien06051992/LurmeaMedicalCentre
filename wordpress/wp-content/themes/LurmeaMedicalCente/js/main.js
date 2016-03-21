@@ -1,3 +1,7 @@
-// var result = $("#content").height();
-// var resultHeight = result + 50;
-// $("#main_left").css("height", resultHeight);
+var height = $("#content").height();
+var container_width= $(".container").width();
+console.log(container_width);
+var resultHeight = height + 50;
+if (container_width >= 940) {
+	$("#main-left").css("height", resultHeight);
+}

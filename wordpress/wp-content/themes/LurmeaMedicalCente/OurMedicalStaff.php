@@ -12,7 +12,7 @@ Phone: 0969128313 -->
       <div class="row">
       <div id="main_container">
         <div class="col-md-4">
-          <ul  id="main_left">
+          <ul  id="main-left">
             <li><img src="<?php echo get_bloginfo("template_directory"); ?>/./img/LurneaMCHome.jpg"></li>
             <li><img src="<?php echo get_bloginfo("template_directory"); ?>/./img/AGPAL189x65.png"></li>
             <li>ABC Our surgery is accredited by AGPAL <a href="http://www.agpal.com.au/">(http://www.agpal.com.au/)</a> is recognised by the australian government for our high standard and quality of care.</li>

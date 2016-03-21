@@ -12,7 +12,7 @@ Phone: 0969128313 -->
       <div class="row">
       <div id="main_container">
         <div class="col-md-4">
-          <ul  id="main_left">
+          <ul  id="main-left">
             <?php dynamic_sidebar( 'main_left' ); ?>
           </ul>
         </div>

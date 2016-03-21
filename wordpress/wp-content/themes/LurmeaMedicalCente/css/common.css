@@ -31,18 +31,18 @@ body{
 }
 
 /*header*/
-#head_text #head_Family
+#head-text #head_Family
 {
 	float: right;
 	margin-right: 6px;
 }
 
-#head_Lurnea img
+#head-Lurnea img
 {
 	max-width: 100%;
 }
 
-#head_bg{
+#head-bg{
 	background-image: url("../img/header.jpg");
 	background-size: 100% auto;
 	-webkit-background-size: cover;
@@ -79,7 +79,7 @@ body{
 /*main*/
 /*main left*/
 
-#main_left{
+#main-left{
 	background-color: rgba(192,192,192,0.5);
 	list-style-type: none;
 	/*set width of ul*/
@@ -89,27 +89,23 @@ body{
 	border-radius: 10px;
 }
 
-#main_left li{
+#main-left li{
 	text-align: center;
 	font-size: 11px;
 	padding-bottom: 15px;
 }
 
-#main_left li img{
+#main-left li img{
 	width: 100%;
 	padding-bottom: 5px;
 	height: auto;
 }
 
-#main_left li .textwidget p{
+#main-left li .textwidget p{
 	text-align: center;
 	text-align: center;
 	font-size: x-small;
 	font-family: Arial, Helvetica, sans-serif;
-}
-
-#footer_menu .list-inline .menu-item {
-	border-right: 1px solid #000000;
 }
 
 /*main right*/
@@ -135,6 +131,10 @@ body{
 	padding: 15px 15px;
 }
 /*footer*/
+#footer-menu .list-inline .menu-item {
+	border-right: 1px solid #000000;
+}
+
 .wrap-footer{
 	background-color: #3b5409;
 }
@@ -143,12 +143,12 @@ body{
 	background-image: url("../img/bg_body.jpg");
 }
 
-#footer_menu
+#footer-menu
 {
 	padding-bottom: 40px;
 }
 
-#footer_menu .col-md-5 ul li a{
+#footer-menu .col-md-5 ul li a{
 	color: black;
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 11px;

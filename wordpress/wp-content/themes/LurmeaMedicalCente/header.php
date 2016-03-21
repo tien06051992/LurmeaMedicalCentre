@@ -31,8 +31,8 @@
       <div class="row">
         <div class="col-md-6"></div>
         <div class="col-md-6">
-          <div id="head_text">
-            <div id="head_Lurnea">
+          <div id="head-text">
+            <div id="head-Lurnea">
               <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/text_head2.jpg">
             </div>
             <div id="head_Family">
@@ -42,7 +42,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12" id="head_bg">
+        <div class="col-md-12" id="head-bg">
             <div class="row" >
               <div class="col-md-4">
                 <!-- left menu -->
