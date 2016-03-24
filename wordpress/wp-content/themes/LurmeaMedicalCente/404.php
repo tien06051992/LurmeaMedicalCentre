@@ -7,7 +7,7 @@
 <body>
 	<div id="head">
 		<div id="img">
-			<img src="<?php echo get_bloginfo("template_directory"); ?>./img/fishy4.png">
+			<img src="<?php echo get_bloginfo("template_directory"); ?>/img/fishy4.png">
 		</div>
 	</div>
 	<div id="main">
