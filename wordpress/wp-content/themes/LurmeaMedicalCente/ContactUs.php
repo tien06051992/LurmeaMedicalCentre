@@ -37,7 +37,7 @@ Phone: 0969128313 -->
                                     the_content();
                              endif; 
                                     wp_reset_query();
-                      ?>
+                       ?>
                   </div>
             </div>
         </div>

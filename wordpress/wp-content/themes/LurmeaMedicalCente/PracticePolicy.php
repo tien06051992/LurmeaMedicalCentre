@@ -20,7 +20,7 @@ Phone: 0969128313 -->
         <div class="col-md-8">
           <div id="content">
               <div id="h3">
-                   <?php
+                  <?php
                         query_posts("page_id=36");
                         if ( have_posts() ) : the_post();
                            the_title();
@@ -37,7 +37,7 @@ Phone: 0969128313 -->
                            the_content();
                         endif; 
                         wp_reset_query();
-              ?>
+                   ?>
               </div>
           </div>
         </div>
