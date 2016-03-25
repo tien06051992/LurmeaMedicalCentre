@@ -1,7 +1,8 @@
-var height = $("#content").height();
-var container_width= $(".container").width();
-console.log(container_width);
-var resultHeight = height + 50;
-if (container_width >= 940) {
-	$("#main-left").css("height", resultHeight);
+var content_height = $("#content").height();
+var sidebar_height = $("#main-left").height();
+var result = sidebar_height - content_height ;
+console.log(result);
+if(result > 0)
+{
+	$("#content").css("height", result+content_height+20);
 }
