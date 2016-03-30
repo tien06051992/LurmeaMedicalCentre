@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title></title>
+  <title>Elizabeth Drive Medical Centre</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/css/bootstrap.min.css">
@@ -33,7 +33,7 @@
         <div class="col-md-6">
           <div id="head-text">
             <div id="head-Lurnea">
-              <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/text_head2.jpg">
+              <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/logo.png">
             </div>
             <div id="head_Family">
               <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/st.jpg">
