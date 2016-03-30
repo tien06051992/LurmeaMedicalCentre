@@ -36,7 +36,7 @@
               <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/logo.png">
             </div>
             <div id="head_Family">
-              <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/st.jpg">
+              <img src="<?php echo get_bloginfo("template_directory"); ?>/./img/text.png">
             </div>
           </div>
         </div>
